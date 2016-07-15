@@ -1,0 +1,22 @@
+{
+  "name": "ds-react-toggle-button",
+  "version": "1.0.0",
+  "description": "An on-off button built using react.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpribadi-ds/ds-react-toggle-button.git"
+  },
+  "keywords": [
+    "toggle-button"
+  ],
+  "author": "Riki Pribadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rpribadi-ds/ds-react-toggle-button/issues"
+  },
+  "homepage": "https://github.com/rpribadi-ds/ds-react-toggle-button#readme"
+}
