@@ -1,4 +1,10 @@
 node_modules
 npm-debug.log
 
-.idea
+.idea/
+.idea/.name
+.idea/ds-react-toggle-button.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
